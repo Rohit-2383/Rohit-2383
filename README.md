@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/UyDnZhf3xNkQrcQZQGy6xVnumos68GlJnf4Bzq2dtsU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kdGxp/dmUuczMuYXAtc291/dGgtMS5hbWF6b25h/d3MuY29tLzE2NDQ3/L0RUX0c3M19XZWIt/RGV2ZWxvcG1lbnQt/QW5pbWF0ZWQtR0lG/LUljb24tcGFjay0y/LmdpZg.gif)]
+![MasterHead](https://imgs.search.brave.com/UyDnZhf3xNkQrcQZQGy6xVnumos68GlJnf4Bzq2dtsU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kdGxp/dmUuczMuYXAtc291/dGgtMS5hbWF6b25h/d3MuY29tLzE2NDQ3/L0RUX0c3M19XZWIt/RGV2ZWxvcG1lbnQt/QW5pbWF0ZWQtR0lG/LUljb24tcGFjay0y/LmdpZg.gif)
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
 <h3 align="center">A motivated and passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif"/>	
