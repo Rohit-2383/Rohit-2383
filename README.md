@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rohit.rai.2383@gmail.com**
 
-- ⚡ Fun fact **I am friendly and i think can make you laugh**
+- ⚡ Fun fact **I am friendly and trust me I can make you laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
