@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced React Concepts**
 
-- 💬 Ask me about **web development , React Frontend**
+- 💬 Ask me about **web development , React , Frontend**
 
 - 📫 How to reach me **rohit.rai.2383@gmail.com**
 
