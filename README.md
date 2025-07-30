@@ -23,8 +23,8 @@
 
 - 🔍 Deep diving into **Advanced React patterns**, **custom hooks**, and **performance optimization**  
 - ⚙️ Practicing **Data Structures & Algorithms** with a focus on **problem-solving** and **system design**  
-- 🧠 Exploring clean architecture, reusability, and scalable state management with **Zustand**  
-- 🧱 Strengthening backend skills using **Express.js**, **MongoDB**, and designing **RESTful APIs**  
+- 🧠 Exploring clean architecture, reusability, and scalable state management techniques  
+- 🧑‍💻 Leveling up with **TypeScript** across both frontend and backend for type-safe development   
 - 🤖 Experimenting with **LLM integration** (e.g., OpenAI, Gemini) into full-stack projects for dynamic user experiences  
 
 ---
@@ -58,6 +58,8 @@ Clean code, smooth UX, and scalable patterns are my everyday goals.
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ---
 
