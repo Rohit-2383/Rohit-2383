@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently working with **React**, **Next.js**, and the **MERN stack**  
-- 🌱 Exploring **Advanced React Patterns**, **Zustand**, and **System Design**  
+- 🌱 Exploring **Advanced React Patterns**, and **System Design**  
 - 🧠 Building scalable full-stack apps and integrating **LLMs** into real-world tools  
 - 💡 Passionate about blending **AI** with development to create smart, user-centric experiences  
 - 💬 Ask me about: `Frontend Architecture`, `Next.js`, `React`, `MERN`, `JavaScript`  
