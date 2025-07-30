@@ -60,6 +60,7 @@ Clean code, smooth UX, and scalable patterns are my everyday goals.
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
@@ -70,7 +71,7 @@ Clean code, smooth UX, and scalable patterns are my everyday goals.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-2383&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=rohit-2383&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
