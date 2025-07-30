@@ -1,27 +1,82 @@
-![MasterHead](https://imgs.search.brave.com/UyDnZhf3xNkQrcQZQGy6xVnumos68GlJnf4Bzq2dtsU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kdGxp/dmUuczMuYXAtc291/dGgtMS5hbWF6b25h/d3MuY29tLzE2NDQ3/L0RUX0c3M19XZWIt/RGV2ZWxvcG1lbnQt/QW5pbWF0ZWQtR0lG/LUljb24tcGFjay0y/LmdpZg.gif)
+![MasterHead](https://imgs.search.brave.com/UyDnZhf3xNkQrcQZQGy6xVnumos68GlJnf4Bzq2dtsU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kdGxp/dmUuczMuYXAtc291/dGgtMS5hbWF6b25h/d3MuY29tLzE2NDQ3/L0RUX0c3M19XZWIt/RGV2ZWxvcG1lbnQtQW5pbWF0ZWQtR0lGLUljb24tcGFjay0yLmdpZg.gif)
+
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
-<h3 align="center">A motivated and passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif"/>	
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-2383&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-2383" /> </p>
+<h3 align="center">Full Stack Developer | React Enthusiast | MERN Stack Explorer</h3>
 
-- 🌱 I’m currently learning **Advanced React Concepts**
+---
 
-- 💬 Ask me about **web development , React , Frontend**
+### 🧑‍💻 About Me
 
-- 📫 How to reach me **rohit.rai.2383@gmail.com**
+- 🔭 Currently working with **React**, **Next.js**, and the **MERN stack**  
+- 🌱 Exploring **Advanced React Patterns**, **Zustand**, and **System Design**  
+- 🧠 Building scalable full-stack apps and integrating **LLMs** into real-world tools  
+- 💡 Passionate about blending **AI** with development to create smart, user-centric experiences  
+- 💬 Ask me about: `Frontend Architecture`, `Next.js`, `React`, `MERN`, `JavaScript`  
+- 📫 Reach out:  
+  [![Gmail](https://img.shields.io/badge/-rohit.rai.2383@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rohit.rai.2383@gmail.com)  
+  [![LinkedIn](https://img.shields.io/badge/-Rohit%20Rai-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rai-265396242/)  
+- 😄 Fun fact: I can debug and crack jokes — sometimes at the same time 💻🎉
 
-- ⚡ Fun fact **I am friendly and trust me I can make you laugh**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohit-rai-265396242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit rai" height="30" width="40" /></a>
+### 📚 Currently Learning
+
+- 🔍 Deep diving into **Advanced React patterns**, **custom hooks**, and **performance optimization**  
+- ⚙️ Practicing **Data Structures & Algorithms** with a focus on **problem-solving** and **system design**  
+- 🧠 Exploring clean architecture, reusability, and scalable state management with **Zustand**  
+- 🧱 Strengthening backend skills using **Express.js**, **MongoDB**, and designing **RESTful APIs**  
+- 🤖 Experimenting with **LLM integration** (e.g., OpenAI, Gemini) into full-stack projects for dynamic user experiences  
+
+---
+
+### ⚒️ What I Build
+
+I specialize in developing fast, scalable, and maintainable web applications using:
+
+- ⚛️ **React** & **Next.js** for modern frontend architecture  
+- 🌐 **Node.js**, **Express**, and **MongoDB** for full-stack applications  
+- 🧠 **Zustand** / **Redux** for powerful state management  
+- 🎨 **Tailwind CSS**, **Sass**, and component libraries for responsive UIs  
+- 🧩 Reusable components, lazy loading, and performance-first design  
+- 📡 Integrated REST APIs and frontend logic that just works  
+
+Clean code, smooth UX, and scalable patterns are my everyday goals.
+
+---
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-2383&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-2383&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-2383&show_icons=true&locale=en&layout=compact" alt="rohit-2383" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2383&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-2383&show_icons=true&locale=en" alt="rohit-2383" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-2383&" alt="rohit-2383" /></p>
+### 👀 Visitor Count
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=rohit-2383&label=Profile%20views&color=0e75b6&style=flat)
